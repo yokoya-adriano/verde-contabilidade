@@ -13,7 +13,7 @@ import Service1 from './Components/Services/Service1';
 function App() {
   return (
     <div>
-        <BrowserRouter>
+        <BrowserRouter basename={process.env.PUBLIC_URL}>
             <Header />
                 <Routes>
                     <Route path="/" element={<Home />} />
