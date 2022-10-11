@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/verde-contabilidade/static/css/main.477963e2.css",
+    "main.js": "/verde-contabilidade/static/js/main.0486f971.js",
+    "static/media/home-background.jpg": "/verde-contabilidade/static/media/home-background.97899034b91ad27048bb.jpg",
+    "static/media/logo-simples.png": "/verde-contabilidade/static/media/logo-simples.9078c8c9842137a8f158.png",
+    "static/media/logo-bg.svg": "/verde-contabilidade/static/media/logo-bg.49cbb7ac45c8de3a0bd46b8e32f530d0.svg",
+    "static/media/logo.svg": "/verde-contabilidade/static/media/logo.a8c39ade15c572e86da97cbdc06e7a6d.svg",
+    "static/media/balance-scale.svg": "/verde-contabilidade/static/media/balance-scale.429da343cdadfcda4f60daae058b557b.svg",
+    "static/media/calculator.svg": "/verde-contabilidade/static/media/calculator.560c3f432775030df7f64c2b31b68e2a.svg",
+    "static/media/hand-holding-dollar.svg": "/verde-contabilidade/static/media/hand-holding-dollar.9f29247596bf6a0f181d4c1bd7687854.svg",
+    "static/media/services.svg": "/verde-contabilidade/static/media/services.7b68bfae2fdffd0980981a7a051ffb7b.svg",
+    "static/media/whatsapp.svg": "/verde-contabilidade/static/media/whatsapp.a48a3b32a3dbb3006f8d5be7fd0f2c72.svg",
+    "static/media/instagram.svg": "/verde-contabilidade/static/media/instagram.443f617a7002450f820140464da2a893.svg",
+    "static/media/pencil-ruler.svg": "/verde-contabilidade/static/media/pencil-ruler.a32a4a7575256c1c42eaeafa9d40b274.svg",
+    "static/media/whatsapp-black.svg": "/verde-contabilidade/static/media/whatsapp-black.30a2ada2f1d7f6987b30418277faf82b.svg",
+    "static/media/phone.svg": "/verde-contabilidade/static/media/phone.dd81ac2b9003c46edb6806782a1e1c65.svg",
+    "static/media/envelope-black.svg": "/verde-contabilidade/static/media/envelope-black.4705fed894db65c12c800c03e448043b.svg",
+    "static/media/sort-amount-up.svg": "/verde-contabilidade/static/media/sort-amount-up.b145d3c0688ffa8246be60149f71038e.svg",
+    "static/media/coins.svg": "/verde-contabilidade/static/media/coins.fb0a2a2151c7ce5d822169f0357bb1df.svg",
+    "static/media/chalkboard-teacher.svg": "/verde-contabilidade/static/media/chalkboard-teacher.e1fd8141418ea0b34e84d241c2b63f12.svg",
+    "static/media/envelope.svg": "/verde-contabilidade/static/media/envelope.7072761824e8163d7c42f535ec7f7f1a.svg",
+    "static/media/clock-rotate-left.svg": "/verde-contabilidade/static/media/clock-rotate-left.b1039cf4e4cb552b2c86f09e6a0a2104.svg",
+    "index.html": "/verde-contabilidade/index.html",
+    "static/media/sitemap.svg": "/verde-contabilidade/static/media/sitemap.4c90c4fa248b38bccafba4eb66713958.svg",
+    "static/media/bullseye.svg": "/verde-contabilidade/static/media/bullseye.6605140317738d82f78e0352759708df.svg",
+    "static/media/binoculars.svg": "/verde-contabilidade/static/media/binoculars.52302e8a3c689caaf20b5fa7913fb222.svg",
+    "static/media/arrow-trend-up.svg": "/verde-contabilidade/static/media/arrow-trend-up.acb4d978864680f40026729a51014a73.svg",
+    "static/media/user-tie.svg": "/verde-contabilidade/static/media/user-tie.547ea713c91136426529bdd3c5e5b29b.svg",
+    "static/media/contact.svg": "/verde-contabilidade/static/media/contact.cfc1eb7d207bb058d7bb5e0d151fce20.svg",
+    "static/media/facebook-square.svg": "/verde-contabilidade/static/media/facebook-square.f1adfc403e228f601539fb66afc00a7f.svg",
+    "static/media/home.svg": "/verde-contabilidade/static/media/home.58fe3d46d09c72dea1595c2c9de1e4c2.svg",
+    "static/media/paper-plane.svg": "/verde-contabilidade/static/media/paper-plane.bc911c6faadd087465feff2f0f5a22a1.svg",
+    "static/media/about.svg": "/verde-contabilidade/static/media/about.300685fee75eb70c93e7a57b1b213423.svg",
+    "main.477963e2.css.map": "/verde-contabilidade/static/css/main.477963e2.css.map",
+    "main.0486f971.js.map": "/verde-contabilidade/static/js/main.0486f971.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.477963e2.css",
+    "static/js/main.0486f971.js"
+  ]
+}
