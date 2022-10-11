@@ -1,0 +1,43 @@
+.wrapper {
+    margin-bottom: 1rem;
+}
+
+.label {
+    font-weight: 700;
+}
+
+.textarea {
+    width: 100%;
+    max-width: 100%;
+    height: 6rem;
+    font-family: var(--type-first);
+    border: 1px solid #EEE;
+    display: block;
+    font-size: 1rem;
+    padding: .8rem;
+    border: 3px solid transparent;
+    border-radius: .4rem;
+    background-color: #EEE;
+    transition: .2s;
+}
+
+.textarea:hover,
+.textarea:focus {
+    box-sizing: border-box;
+    outline: none;
+    border: 3px solid var(--primary-color);
+    background-color: #FFF;
+}
+
+.label {
+    display: block;
+    font-size: 1rem;
+    line-height: 1rem;
+    padding-bottom: .5rem;
+}
+
+.error {
+    color: #F31;
+    font-size: .875rem;
+    margin-top: .25rem;
+}

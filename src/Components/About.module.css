@@ -1,0 +1,39 @@
+.about {
+    margin-top: 30px;
+}
+
+.about__subtitle {
+    margin-bottom: 5px;
+    display: flex;
+    align-items: center;
+}
+
+.about__text {
+    width: 100%;
+    height: auto;
+    margin-top: 30px;
+    font-size: 1.125rem;
+}
+
+.about__frame {
+    width: 100%;
+    height: auto;
+    margin-top: 30px;
+    border: 2px solid var(--primary-color);
+    border-radius: .4rem;
+    padding: 15px;
+}
+
+.about__subtitle:not(:first-of-type) {
+    margin-top: 30px;
+}
+
+.about__subtitle svg {
+    margin-right: 10px;
+}
+
+.about__start_img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}

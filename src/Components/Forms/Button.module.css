@@ -1,0 +1,34 @@
+.button {
+    width: 100%;
+    max-width: 8rem;
+    font-size: 1rem;
+    font-family: var(--type-first);
+    cursor: pointer;
+    border: none;
+    border: 3px solid transparent;
+    border-radius: .4rem;
+    font-weight: 700;
+    color: var(--terciary-color);
+    padding: .8rem 1.2rem;
+    box-sizing: border-box;
+    transition: .3s;
+}
+
+.button:hover,
+.button:focus {
+    outline: none;
+    color: var(--primary-color);
+    background-color: var(--terciary-color);
+    border: 3px solid var(--primary-color);
+}
+
+.button:disabled {
+    opacity: .5rem;
+    cursor: wait;
+}
+
+@media (max-width: 576px) {
+    .button {
+        max-width: 100%;
+    }
+}

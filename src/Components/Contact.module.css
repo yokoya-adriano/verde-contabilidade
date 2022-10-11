@@ -1,0 +1,32 @@
+.contact {
+    margin-top: 30px;
+}
+
+.contact__form {
+    margin-top: 30px;
+}
+
+.contact__subtitle {
+    font-size: 1rem;
+    font-weight: 700;
+    margin-top: 30px;
+}
+
+.contact__links {
+    width: fit-content;
+    display: flex;
+    align-items: center;
+    font-size: 1rem;
+    margin-top: 0.5rem;
+}
+
+.contact__links svg {
+    margin-right: 10px;
+}
+
+@media (max-width: 576px) {
+    .contact iframe {
+        width: calc(100% + 3rem) !important;
+        margin-left: -1.5rem;
+    }
+}
